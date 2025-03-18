@@ -48,7 +48,7 @@
 
   <a href="mailto:lenon.contato.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/lenon-cunha-1a211a357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-    <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
+    <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 
 
@@ -60,8 +60,8 @@
 
 <h3 align="center">🔆 Trabalhos e Retrabalhos 🔆</h3>
 <div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
+    <img src="https://github.com/LenonCunha33/Lenon/blob/main/Ama%20Not%C3%ADcias.png" alt="Ama Logo" width="350" style="border-radius: 10px;">
+    <img src="https://github.com/LenonCunha33/Lenon/blob/main/Codein.png" alt="Codein Logo" width="350" style="border-radius: 10px;">
 </div>
 
 
@@ -100,9 +100,9 @@
 <div align="center">
   <h3>⭐️ Melhores Repositórios ⭐️</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/yeho.net">
+    <a href="https://github.com/LenonCunha33/blog-api-server">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=yeho.net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
+    <a href="https://github.com/LenonCunha33/blog-client-server">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
