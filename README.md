@@ -1,37 +1,9 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
--->
 
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
-
-
-<!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/LenonCunha33/Lenon/blob/main/Runner.gif">
+  <img src="https://github.com/LenonCunha33/Lenon/blob/main/Runner.gif" alt="Runnner gIf" style="width:auto; height:auto"/>
 </a>
 
 
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
-
-<!-- Greeting -->
 </h1>
 <h1 align="center">Saudações 🙏 Eu Sou Lenon Cunha</h1>
 
@@ -57,17 +29,13 @@
 
 
     
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+<img align="right" alt="coding-gif" width="400" src="https://github.com/LenonCunha33/Lenon/blob/main/Laboratory.gif">
 
 
-<!-- about me -->
  <h3 align="left">💫 Sobre Mim 💫</h3>
 
 
-
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
 <h4> 
   🌱 Atualmente estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
  🔭 Fiz Trabalhos Autonômos e adiquiri experiência prática em Full Stack.</br>
@@ -78,9 +46,8 @@
 
   
 
-  <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
+  <a href="mailto:lenon.contato.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/lenon-cunha-1a211a357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 
@@ -90,7 +57,7 @@
 </div>
 <br/>
 
-<!--Experence and experencing-->
+
 <h3 align="center">🔆 Trabalhos e Retrabalhos 🔆</h3>
 <div align="center" style="display: flex; gap: 10px;">
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
@@ -99,7 +66,7 @@
 
 
 
-<!-- git stat-->
+
 <h3 align="center">⚡ Status  GitHub ⚡</h3>
 <br>
 <div align="center">
